@@ -21,9 +21,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulture89&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Most Used Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vulture89&hide_border=true&theme=tokyonight" alt="Streak Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=vulture89&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=vulture89&hide_border=true&theme=tokyonight" alt="Contributions">
 </div>
-
-## Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=vulture89&theme=onestar" alt="Trophies" align="center">
